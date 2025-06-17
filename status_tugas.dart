@@ -1,0 +1,4 @@
+enum StatusTugas {
+  belumSelesai,
+  selesai,
+}
